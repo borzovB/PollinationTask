@@ -1,7 +1,7 @@
-"""Генератор датасета захватов — Isaac Sim headless
-Запуск: _isaac_sim\isaaclab.bat -p generation.py
-"""
+# Генератор датасета захватов — Isaac Sim headless
+# Запуск: _isaac_sim\isaaclab.bat -p generation.py
 
+# Версия номер 2
 import os
 import random
 import numpy as np
