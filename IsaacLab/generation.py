@@ -1,6 +1,6 @@
 # Генератор датасета захватов — Isaac Sim headless
-# Запуск: _isaac_sim\isaaclab.bat -p generation.py
-
+# Запуск: isaaclab.bat -p generation.py
+# для работы необходимо установить isaaclab и Isaac Sim
 # Версия номер 2
 import os
 import random
