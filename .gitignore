@@ -1,0 +1,7 @@
+.venv 
+.idea 
+IsaacLab\_isaac_sim 
+IsaacLab\.vscode 
+IsaacLab\.github 
+IsaacLab\isaaclab.bat 
+IsaacLab\source\standalone\grasp_dataset.csv
