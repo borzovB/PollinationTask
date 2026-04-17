@@ -85,7 +85,7 @@ TEMPLATES = [
 ]
 
 # Число экспериментов
-NUM_EXPERIMENTS = 5
+NUM_EXPERIMENTS = 10
 
 # Получение пути к родительской папке
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
